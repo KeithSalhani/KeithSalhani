@@ -1,3 +1,5 @@
+![Banner](bannerFlex.jpg)
+
 # 💫 Hi There!
 I'm a computer science student from Ireland who is passionate about the world of technology. As an independent, versatile, and self-motivated developer, I'm always eager to learn and grow in the field of computer science. My journey is driven by curiosity, and I find joy in solving complex problems and creating meaningful solutions.
 
