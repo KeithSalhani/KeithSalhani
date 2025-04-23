@@ -29,3 +29,4 @@ I'm a computer science student from Ireland. Currently interning @ Shopify in To
 [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yor2vj1bbqfl81733hx1nm33z&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=yor2vj1bbqfl81733hx1nm33z&redirect=true)
