@@ -1,7 +1,7 @@
 ![Banner](bannerFlex.jpg)
 
 # 💫 Hi There!
-I'm a computer science student from Ireland. I like making stuff
+I'm a computer science student from Ireland. Currently interning @ Shopify in Toronto.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -22,10 +22,10 @@ I'm a computer science student from Ireland. I like making stuff
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chubbyyb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=chubbyyb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=fff)](#) [![](https://img.shields.io/badge/--->%20-8A2BE2?style=for-the-badge&logoColor=fff)](#) 
+[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&&logo=ruby&logoColor=white)](#)
+[![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](#)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
+
