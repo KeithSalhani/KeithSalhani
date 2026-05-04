@@ -1,4 +1,3 @@
-![Banner](bannerFlex.jpg)
 
 # 💫 Hi There!
 I'm a computer science student from Ireland. Currently interning @ Shopify in Toronto.
